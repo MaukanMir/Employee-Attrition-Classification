@@ -1,0 +1,3 @@
+#### This dataset contains synthetic data for employee attrition. The data was generated to simulate a scenario where various factors influence whether an employee stays with a company or leaves. This dataset can be used for predictive modeling, data analysis, and machine learning tasks related to employee turnover.
+
+#### Link: https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction/data
